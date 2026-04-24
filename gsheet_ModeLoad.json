@@ -1,0 +1,14 @@
+{
+  "range": "ModeLoad!A1:Z",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Type",
+      "Value"
+    ],
+    [
+      "IsLoadOnline",
+      true
+    ]
+  ]
+}
